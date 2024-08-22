@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Modelagem e Diagramação de um  Componente Iphone" version="4">
+  <OBJECT>
+    <ID name="Modelagem e Diagramação de um  Componente Iphone" mc="Infrastructure.DiagramSet" uid="e9ee6bbd-d49c-45a8-9d15-0dfab9f0f148"/>
+    <PID name="Modelagem e Diagramação de um  Componente Iphone" mc="Standard.Project" uid="4fcd3012-be90-4558-86eb-3381ff1f03a8"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[Modelagem e Diagramação de um  Componente Iphone]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

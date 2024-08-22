@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="modelagem e diagramação de um  componente iphone" version="4">
+  <OBJECT>
+    <ID name="modelagem e diagramação de um  componente iphone" mc="Standard.Package" uid="8758ed10-5097-4b46-817f-77c42131ca53"/>
+    <PID name="Modelagem e Diagramação de um  Componente Iphone" mc="Standard.Project" uid="4fcd3012-be90-4558-86eb-3381ff1f03a8"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[modelagem e diagramação de um  componente iphone]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="	Iphone" mc="Standard.Class" uid="4e43421d-40fa-4ada-811e-18b52e10a968"/>
+        <COMPID name="ReprodutorMusical" mc="Standard.Interface" uid="9157f6eb-f094-4270-a14d-01853428f132"/>
+        <COMPID name="AparelhoTelefonico" mc="Standard.Interface" uid="632b4f41-2eb4-42ab-9209-5799142c6fe4"/>
+        <COMPID name="NavegadorInternet" mc="Standard.Interface" uid="f7198c4d-8fc1-4f8f-a889-09eaffcd7673"/>
+        <COMPID name="Música" mc="Standard.Class" uid="7922214e-c400-4ac5-a7c5-8a99bd877b25"/>
+        <COMPID name="Numero" mc="Standard.Class" uid="7c20b71d-6d83-42ac-b8af-caddb2ebcc08"/>
+        <COMPID name="Url" mc="Standard.Class" uid="cb08e1b2-5934-4bef-a615-72fa78a35939"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="modelagem e diagramação de um  componente iphone Class diagram" mc="Standard.ClassDiagram" uid="a8504024-1ec1-45bf-80a9-5a26e761b62e"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
